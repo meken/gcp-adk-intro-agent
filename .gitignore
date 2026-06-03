@@ -176,3 +176,9 @@ cython_debug/
 
 # Others
 .DS_Store
+
+# adk
+.adk/
+
+# AGY
+.antigravitycli/

@@ -1,3 +1,6 @@
-google-adk[a2a]==1.14.1
-google-cloud-compute==1.37.0
-google-cloud-monitoring==2.27.2
+google-adk[a2a]==2.1.0
+google-auth==2.53.0
+google-cloud-compute==1.47.0
+google-cloud-monitoring==2.30.0
+google-genai==1.75.0
+mcp==1.27.2
